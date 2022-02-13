@@ -4,6 +4,13 @@ import NewExpense from './components/NewExpense/NewExpense';
 import Expenses from "./components/Expenses/Expenses";
 // import ExpenseFilter from './components/Expenses/ExpenseFilter';
 
+/*
+/ Expense Tracker App
+/ Based on coursework from "React - The Complete Guide 
+/ (incl Hooks, React Router, Redux)" by Maxamilian Schwarzmuller
+/ (12/2021)
+*/
+
 const DUMMY_EXPENSES = [
   {
     id: 'e1',
